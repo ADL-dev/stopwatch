@@ -1,5 +1,5 @@
 {
-    "name": "stopwatch",
+    "name": "pagevis-stopwatch",
     "version": "1.0.0",
     "description": "measure time between start and stop excluding page hidden time",
     "main": "src/index.js",
@@ -11,7 +11,7 @@
         "url": "git+https://github.com/ADL-dev/stopwatch.git"
     },
     "keywords": [
-        "stopwatch"
+        "stopwatch, pagevis-stopwatch"
     ],
     "author": "adl",
     "license": "MIT",
